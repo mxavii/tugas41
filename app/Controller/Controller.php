@@ -8,7 +8,7 @@ use App\Model\Model;
 
 class Controller
 {
-    public $model;
+    private $model;
 
     public function __construct()
     {
@@ -56,8 +56,5 @@ class Controller
         $insert = $this->model->insertMtr($nopol, $merk, $warna, $kubikasi, $tahun_perakitan);
         header("location:index.php");
     }
-
-    // public function __destruct(){
-    // }
 }
 ?>

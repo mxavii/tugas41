@@ -12,7 +12,7 @@ use App\Controller\Controller;
 
 <html>
 	<head>
-		<title>MVC</title>
+		<title>Tambah Data</title>
 		<style>
 		body{
 			background-color: #aab6b3;
@@ -22,27 +22,27 @@ use App\Controller\Controller;
 	<body>
 		<form action="" method="POST">
 			<table border="1px" align="center" bgcolor="#1d2d20" cellpadding="5" style="font-size:16px;  margin-top:95; padding:20; color:#ede7e7" bordercolor="#1d2d20" >
-				<tr >
+				<tr>
 					<td>Nomor Polisi</td>
 					<td>:</td>
 					<td><input type="text" name="nopol" size="45" /></td>
 				</tr>
-				<tr >
+				<tr>
 					<td>Merk</td>
 					<td>:</td>
 					<td><input type="text" name="merk" size="45"/></td>
 				</tr>
-				<tr >
+				<tr>
 					<td>Warna</td>
 					<td>:</td>
 					<td><input type="text" name="warna" size="45"/></td>
 				</tr>
-				<tr >
+				<tr>
 					<td>Kubikasi</td>
 					<td>:</td>
 					<td><input type="text" name="kubikasi" size="45"/></td>
 				</tr>
-				<tr >
+				<tr>
 					<td>Tahun perakitan</td>
 					<td>:</td>
 					<td><input type="text" name="tahun_perakitan" size="45"/></td>

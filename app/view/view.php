@@ -21,7 +21,7 @@
 
 	</head>
 	<body>
-		<table width="55%" border="1px" align="center" bgcolor="#1d2d20" cellpadding="5" style="font-size:16px;  margin-top:95; padding:20; color:#ede7e7" bordercolor="#1d2d20" >
+		<table width="55%" border="3px" align="center" bgcolor="#1d2d20" cellpadding="5" style="font-size:16px;  margin-top:95; padding:20; color:#ede7e7" bordercolor="#1d2d20" >
 			<tr align="center" bgcolor="#34693d">
 				<th>Nomor Polisi</th>
 				<th>Merk</th>

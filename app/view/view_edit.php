@@ -12,7 +12,7 @@ use App\Controller\Controller;
 
 <html>
 	<head>
-		<title>MVC</title>
+		<title>Edit Data</title>
 		<style>
 		body{
 			background-color: #aab6b3;

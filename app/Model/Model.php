@@ -73,8 +73,5 @@ class Model
 		$stmt = $var->fetch();
 		return $stmt;
 	}
-
-	// public function __destruct(){
-	// }
 }
 ?>
